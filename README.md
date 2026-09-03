@@ -108,3 +108,6 @@ PACS | DICOM | Medical Imaging | Healthcare IT | Technical Support
 ## 📌 Project Status
 
 🟡 In Development
+## 🏗️ PACS Guardian Architecture
+
+![PACS Guardian Architecture]<img width="1536" height="1024" alt="51605BA9-525F-4E51-B0F2-97712ED969E7" src="https://github.com/user-attachments/assets/02d476e8-1b08-4c71-890d-5fe40931f719" />

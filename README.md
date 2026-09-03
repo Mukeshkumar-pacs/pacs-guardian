@@ -7,6 +7,15 @@ understanding, monitoring, and troubleshooting communication and
 connectivity within medical imaging environments.
 
 ## 🏥 Medical Imaging Workflow
+environments.
+
+## 🏗️ PACS Guardian Architecture
+
+![PACS Guardian Architecture](PACS-Guardian-Architecture.png)
+
+## 🏥 Medical Imaging Workflow
+
+
 
 Medical Modality
 ↓
